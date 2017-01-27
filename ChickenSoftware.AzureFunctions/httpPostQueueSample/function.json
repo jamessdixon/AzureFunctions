@@ -1,0 +1,12 @@
+﻿{
+  "disabled": false,
+  "bindings": [
+    {
+      "name": "personItem",
+      "queueName": "person",
+      "connection": "",
+      "type": "queueTrigger",
+      "direction": "in"
+    }
+  ]
+}
